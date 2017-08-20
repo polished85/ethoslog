@@ -1,0 +1,77 @@
+[
+	{
+		"title": "Tesla Model 3 Hits Production",
+		"url": "https://mobile.nytimes.com/2017/07/03/business/tesla-model-3-elon-musk.html?action=click&module=Discovery&pgtype=Homepage",
+		"image": "https://cdn1.nyt.com/images/2017/07/03/business/03TESLA3-sub/03TESLA3-sub-articleLarge.jpg"
+	},
+	{
+		"title": "How elephants avoid cancer",
+		"url": "http://www.nature.com/news/how-elephants-avoid-cancer-1.18534",
+		"image": "http://www.nature.com/polopoly_fs/7.30231.1444319015!/image/1.18534.jpg_gen/derivatives/landscape_630/1.18534.jpg"
+	},
+	{
+		"title": "Cities Revive an Old Idea to Become More Pedestrian-Friendly",
+		"url": "http://www.governing.com/topics/transportation-infrastructure/gov-pedestrian-scramble-diagonal-barnes-dance.html",
+		"image": "http://media.governing.com/images/770*1000/barnes-dance.jpg"
+	},
+	{
+		"title": "SpaceX aborts second launch attempt for Intelsat 35e launch at T-10 seconds",
+		"url": "https://techcrunch.com/2017/07/03/watch-spacexs-second-attempt-to-launch-intelsat-35e-live/",
+		"image": "https://tctechcrunch2011.files.wordpress.com/2017/07/intelsat35e_pad_3crop.jpg?w=208&h=156&crop=1&quality=85&strip=all"
+	},
+	{
+		"title": "What Is Space?",
+		"url": "http://nautil.us//issue/49/the-absurd/what-is-space?utm_source=Nautilus&utm_campaign=46ca5944ab-EMAIL_CAMPAIGN_2017_06_30&utm_medium=email&utm_term=0_dc96ec7a9d-46ca5944ab-60565561",
+		"image": ""
+	},
+	{
+		"title": "California consumer groups allow CenturyLink to end dark fiber leasing",
+		"url": "http://www.tellusventure.com/blog/california-consumer-groups-allow-centurylink-to-end-dark-fiber-leasing/",
+		"image": ""
+	},
+	{
+		"title": "Myers Diff Algorithm – Code and Interactive Visualization",
+		"url": "http://blog.robertelder.org/diff-algorithm/",
+		"image": ""
+	},
+	{
+		"title": "New studies of ancient concrete could teach us to do as the Romans did",
+		"url": "https://phys.org/news/2017-07-ancient-concrete-romans.html",
+		"image": ""
+	},
+	{
+		"title": "Show HN: Under the hood ReactJS",
+		"url": "https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/",
+		"image": ""
+	},
+	{
+		"title": "Finance sites erroneously show Amazon, Apple, other stocks crashing",
+		"url": "http://www.marketwatch.com/story/finance-sites-erroneously-show-amazon-apple-other-stocks-crashing-2017-07-03",
+		"image": ""
+	},
+	{
+		"title": "Skip grep – Use AWK",
+		"url": "http://blog.jpalardy.com/posts/skip-grep-use-awk/",
+		"image": ""
+	},
+	{
+		"title": "More than a decade later, how do original YouTube stars feel about the site?",
+		"url": "https://arstechnica.com/features/2017/06/youtube-changed-my-life-a-pair-of-original-videostars-ponder-a-life-lived-online/",
+		"image": ""
+	},
+	{
+		"title": "Swiftype is hiring Front end, Back end, and Solutions Engineers",
+		"url": "https://swiftype.com/jobs",
+		"image": ""
+	},
+	{
+		"title": "Shedding Light on the &ldquo;Black Box of Inappropriateness&ldquo;",
+		"url": "https://cherylyeoh.com/2017/07/03/shedding-light-on-the-black-box-of-inappropriateness/",
+		"image": ""
+	},
+	{
+		"title": "Pruning spaces from strings quickly on ARM processors",
+		"url": "http://lemire.me/blog/2017/07/03/pruning-spaces-from-strings-quickly-on-arm-processors/",
+		"image": ""
+	}
+]
